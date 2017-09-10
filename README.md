@@ -7,12 +7,19 @@ good performance on two different tasks and datasets:
 - fact checking of the answers to a question in community question answering forums.
 
 ## Authors:
-
+Georgi Karadzhov, Preslav Nakov, Lluís Màrquez, Alberto Barrón-Cedeño, Ivan Koychev
 ## Paper link: 
 
 Please, cite the following paper if you use the resources below:
 ```bib
-@InProceedings{
+@InProceedings{RANLP2017:factchecking,
+  author    = {Georgi Karadzhov and Preslav Nakov and Llu\'{i}s M\`{a}rquez and Alberto Barr\'on-Cede\~no and Ivan Koychev},
+  title     = {Fully Automated Fact Checking Using External Sources},
+  booktitle = {Proceedings of the 2017 International Conference on Recent Advances in Natural Language Processing},
+  month     = {September},
+  year      = {2017},
+  address   = {Varna, Bulgaria},
+  series    = {RANLP~'17}
 }
 ```
 ## Resources
