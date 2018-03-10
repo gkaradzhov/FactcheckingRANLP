@@ -8,7 +8,7 @@ good performance on two different tasks and datasets:
 
 ## Authors:
 Georgi Karadzhov, Preslav Nakov, Lluís Màrquez, Alberto Barrón-Cedeño, Ivan Koychev
-## Paper link: 
+## Paper link: https://arxiv.org/abs/1710.00341
 
 Please, cite the following paper if you use the resources below:
 ```bib
@@ -23,6 +23,9 @@ Please, cite the following paper if you use the resources below:
 }
 ```
 ## Resources
+
+### Code:
+Available upon request.
 
 ### Table:Rumour detection resources
 
