@@ -25,7 +25,7 @@ Please, cite the following paper if you use the resources below:
 ## Resources
 
 ### Code:
-Available upon request.
+Version of the code is available in the repo. Cleaner(refactored) version of the code will be available soon(-ish). 
 
 ### Table:Rumour detection resources
 
